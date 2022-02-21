@@ -88,6 +88,25 @@
 			{
 				"inputs": [
 					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "animalTypes",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
 						"internalType": "address",
 						"name": "to",
 						"type": "address"
@@ -569,11 +588,11 @@
 			]
 		},
 		"MintAnimalToken.sol": {
-			"keccak256": "0x692a5f5b6adf18ead8aae77f2e4c25367086b2d933bca4893fed2ec0119d2feb",
+			"keccak256": "0xae0ff54f9d99c3e76559a56e16e2530974ddec829cd93c9e4b4b376bdeff60e0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ce32e8ae563dfa5c000b8f53f43f68a93539e229a0ebca13bec14f4faf8ccf00",
-				"dweb:/ipfs/QmU5ixLzAys9topfe3ZPcwYtAXFVA2KFkvPgzjD9WNHT6k"
+				"bzz-raw://1f5821e27a5e0c0313fe8019412631bafc9466b4067bab749c602623a7be10d7",
+				"dweb:/ipfs/QmQedTLHkALEuV8ktoqrn5LZYXJDh5gxYze76x62D56iL7"
 			]
 		}
 	},
